@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Govind",
+    "salary": 90000.00,
+    "address": {
+      "houseAndStreetName":"6 The Plummery, Reading",
+      "city":"london",
+      "country":"UK"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Shweta",
+    "salary": 76543.21,
+    "address": {
+      "houseAndStreetName":"7 The Plummery, Bermingham",
+      "city":"Bermingham",
+      "country":"UK"
+    }
+  },
+  {
+    "id": 3,
+    "name": "John",
+    "salary": 10000.34,
+    "address": {
+      "houseAndStreetName":"6 The Plummery, Reading",
+      "city":"london",
+      "country":"UK"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Lilly",
+    "salary": 98765.43,
+    "address": {
+      "houseAndStreetName":"6 The Plummery, Reading",
+      "city":"london",
+      "country":"UK"
+    }
+  }
+]
